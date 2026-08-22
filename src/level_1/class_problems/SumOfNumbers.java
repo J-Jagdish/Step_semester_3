@@ -1,0 +1,13 @@
+package level_1.class_problems;
+
+public class SumOfNumbers {
+    public void sumOfNaturalNumbers(int n) {
+        int sum = 0;
+        int i = 1;
+        while (i <= n) {
+            sum += i;
+            i++;
+        }
+        System.out.println("Sum of numbers from 1 to " + n + " = " + sum);
+    }
+}
