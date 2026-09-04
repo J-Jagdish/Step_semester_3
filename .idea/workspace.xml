@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e01b9923-f199-4a76-b651-42419fd109fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/FindMinRotated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/SubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/MergeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/class_problems/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/TwoSum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000001349834" />
+      <entry key="S30" value="1.000512972397465" />
+      <entry key="S60" value="1.0229354097548142" />
+      <entry key="M2" value="1.33610949715101" />
+      <entry key="M5" value="10.841052761070587" />
+      <entry key="M10" value="40.068493117362365" />
+      <entry key="M15" value="68.33891026806702" />
+      <entry key="M30" value="129.03578900406134" />
+      <entry key="H1" value="186.87786470817156" />
+      <entry key="H2" value="228.34893706049363" />
+      <entry key="H4" value="253.42114677148012" />
+      <entry key="D1" value="276.9706752955688" />
+      <entry key="W1" value="281.2746873184464" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7371346086455506" />
+      <entry key="MS500" value="0.9408261075137876" />
+      <entry key="S2" value="0.9848664428955506" />
+      <entry key="S5" value="0.9939188701848847" />
+      <entry key="S10" value="0.9969547986010293" />
+      <entry key="S30" value="0.9994966124260534" />
+      <entry key="S60" value="1.0224209787400382" />
+      <entry key="M2" value="1.3357117875620166" />
+      <entry key="M5" value="10.838743883771773" />
+      <entry key="M10" value="40.06368968654868" />
+      <entry key="M15" value="68.33294699622962" />
+      <entry key="M30" value="129.02943751066715" />
+      <entry key="H1" value="186.87295168991133" />
+      <entry key="H2" value="228.3458365881345" />
+      <entry key="H4" value="253.41939896780588" />
+      <entry key="D1" value="276.97035280480475" />
+      <entry key="W1" value="281.2746404305409" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IHAQK6IsGrgfUmlFqUF6iXgBVa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ContainsDuplicate.executor": "Run",
+    "Application.FindMinRotated.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxProfit.executor": "Run",
+    "Application.MaxSubArray.executor": "Run",
+    "Application.MergeSortedArrays.executor": "Run",
+    "Application.ProductExceptSelf.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SubarraySum.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/session__2",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/JAI JAGDISH E/Step_semester_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/JAI JAGDISH E/Step_semester_3/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e01b9923-f199-4a76-b651-42419fd109fe" name="Changes" comment="" />
+      <created>1787411103333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787411103333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
