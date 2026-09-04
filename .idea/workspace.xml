@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e01b9923-f199-4a76-b651-42419fd109fe" name="Changes" comment="" />
+    <list default="true" id="e01b9923-f199-4a76-b651-42419fd109fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/FindMinRotated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/SubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/MergeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/class_problems/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/TwoSum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,22 +36,22 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000432717289" />
-      <entry key="S2" value="1.0147402170616246" />
-      <entry key="S5" value="1.379476050430645" />
-      <entry key="S10" value="3.1333864003643845" />
-      <entry key="S30" value="10.17808051831731" />
-      <entry key="S60" value="20.498975337797457" />
-      <entry key="M2" value="36.692295839865984" />
-      <entry key="M5" value="64.311410185912" />
-      <entry key="M10" value="90.8731958020415" />
-      <entry key="M15" value="105.85068666415746" />
-      <entry key="M30" value="126.13741700440268" />
-      <entry key="H1" value="138.9453928071774" />
-      <entry key="H2" value="146.1661393158806" />
-      <entry key="H4" value="150.0029509835383" />
-      <entry key="D1" value="153.32238910752315" />
-      <entry key="W1" value="153.9029142632638" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000001349834" />
+      <entry key="S30" value="1.000512972397465" />
+      <entry key="S60" value="1.0229354097548142" />
+      <entry key="M2" value="1.33610949715101" />
+      <entry key="M5" value="10.841052761070587" />
+      <entry key="M10" value="40.068493117362365" />
+      <entry key="M15" value="68.33891026806702" />
+      <entry key="M30" value="129.03578900406134" />
+      <entry key="H1" value="186.87786470817156" />
+      <entry key="H2" value="228.34893706049363" />
+      <entry key="H4" value="253.42114677148012" />
+      <entry key="D1" value="276.9706752955688" />
+      <entry key="W1" value="281.2746873184464" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -60,23 +73,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="6.750831610720748E-13" />
-      <entry key="MS500" value="0.0036802002918097823" />
-      <entry key="S2" value="0.24794550203819704" />
-      <entry key="S5" value="0.8368645937461773" />
-      <entry key="S10" value="2.7231610367962156" />
-      <entry key="S30" value="9.971025442619347" />
-      <entry key="S60" value="20.376949845959587" />
-      <entry key="M2" value="36.62238495609801" />
-      <entry key="M5" value="64.27615950923905" />
-      <entry key="M10" value="90.85091126461407" />
-      <entry key="M15" value="105.83395334843254" />
-      <entry key="M30" value="126.1277481702577" />
-      <entry key="H1" value="138.9401420344019" />
-      <entry key="H2" value="146.16339598325132" />
-      <entry key="H4" value="150.00154791455472" />
-      <entry key="D1" value="153.3221507292683" />
-      <entry key="W1" value="153.90288009589713" />
+      <entry key="MS100" value="0.7371346086455506" />
+      <entry key="MS500" value="0.9408261075137876" />
+      <entry key="S2" value="0.9848664428955506" />
+      <entry key="S5" value="0.9939188701848847" />
+      <entry key="S10" value="0.9969547986010293" />
+      <entry key="S30" value="0.9994966124260534" />
+      <entry key="S60" value="1.0224209787400382" />
+      <entry key="M2" value="1.3357117875620166" />
+      <entry key="M5" value="10.838743883771773" />
+      <entry key="M10" value="40.06368968654868" />
+      <entry key="M15" value="68.33294699622962" />
+      <entry key="M30" value="129.02943751066715" />
+      <entry key="H1" value="186.87295168991133" />
+      <entry key="H2" value="228.3458365881345" />
+      <entry key="H4" value="253.41939896780588" />
+      <entry key="D1" value="276.97035280480475" />
+      <entry key="W1" value="281.2746404305409" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -91,28 +104,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/session__1&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JAI JAGDISH E/Step_semester_3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ContainsDuplicate.executor": "Run",
+    "Application.FindMinRotated.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxProfit.executor": "Run",
+    "Application.MaxSubArray.executor": "Run",
+    "Application.MergeSortedArrays.executor": "Run",
+    "Application.ProductExceptSelf.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SubarraySum.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/session__2",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/JAI JAGDISH E/Step_semester_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/JAI JAGDISH E/Step_semester_3/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -133,5 +162,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
