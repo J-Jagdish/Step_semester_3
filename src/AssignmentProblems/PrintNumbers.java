@@ -1,4 +1,4 @@
-package level_1.class_problems;
+package AssignmentProblems;
 
 public class PrintNumbers {
     public void printNumbersUpToN(int n) {
