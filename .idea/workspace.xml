@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e01b9923-f199-4a76-b651-42419fd109fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/FindMinRotated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/ProductExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/SubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/assignment_problems/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/MergeSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/class_problems/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/array/class_problems/TwoSum.java" afterDir="false" />
-    </list>
+    <list default="true" id="e01b9923-f199-4a76-b651-42419fd109fe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +18,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="feature/session_6" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="NextEditCompletionFeaturesState">
@@ -123,7 +123,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature/session__2",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
