@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e01b9923-f199-4a76-b651-42419fd109fe" name="Changes" comment="" />
+    <list default="true" id="e01b9923-f199-4a76-b651-42419fd109fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/session_6/assignment_problems/CanteenBillingCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_6/assignment_problems/FestivalBonusCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_6/assignment_problems/HostelElectricityBillCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_6/assignment_problems/ParkingChargeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_6/assignment_problems/StreamingRenewalCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_6/class_problems/DeliveryFeeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_6/class_problems/ExamGrader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_6/class_problems/LibraryDueDateCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_6/class_problems/PaymentFeeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_6/class_problems/TransportFareCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Step_semester_3/session_3/assignment_problems/.gitkeep" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,57 +52,57 @@
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
       <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0000000001349834" />
-      <entry key="S30" value="1.000512972397465" />
-      <entry key="S60" value="1.0229354097548142" />
-      <entry key="M2" value="1.33610949715101" />
-      <entry key="M5" value="10.841052761070587" />
-      <entry key="M10" value="40.068493117362365" />
-      <entry key="M15" value="68.33891026806702" />
-      <entry key="M30" value="129.03578900406134" />
-      <entry key="H1" value="186.87786470817156" />
-      <entry key="H2" value="228.34893706049363" />
-      <entry key="H4" value="253.42114677148012" />
-      <entry key="D1" value="276.9706752955688" />
-      <entry key="W1" value="281.2746873184464" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000002986321854" />
+      <entry key="S60" value="1.0012769193277187" />
+      <entry key="M2" value="1.0903267501745055" />
+      <entry key="M5" value="3.7709686806718348" />
+      <entry key="M10" value="19.67925707628394" />
+      <entry key="M15" value="41.71801727899844" />
+      <entry key="M30" value="100.82853051018589" />
+      <entry key="H1" value="166.5797329932514" />
+      <entry key="H2" value="217.76535842798566" />
+      <entry key="H4" value="250.06831663729886" />
+      <entry key="D1" value="281.2434547382951" />
+      <entry key="W1" value="287.02351184122216" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="S2" value="4.472538108949694E-103" />
+      <entry key="S5" value="1.1490431439261361E-41" />
+      <entry key="S10" value="3.444394538673065E-21" />
+      <entry key="S30" value="1.882615127669417E-7" />
+      <entry key="S60" value="5.826352234335395E-4" />
+      <entry key="M2" value="0.03365335752381394" />
+      <entry key="M5" value="0.3889606135724414" />
+      <entry key="M10" value="0.8814795947455721" />
+      <entry key="M15" value="1.1581407189606543" />
+      <entry key="M30" value="1.5218338314159414" />
+      <entry key="H1" value="1.7445824812500568" />
+      <entry key="H2" value="1.867923019949749" />
+      <entry key="H4" value="1.9328317041646546" />
+      <entry key="D1" value="1.9886450558223843" />
+      <entry key="W1" value="1.9983738972531413" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7371346086455506" />
-      <entry key="MS500" value="0.9408261075137876" />
-      <entry key="S2" value="0.9848664428955506" />
-      <entry key="S5" value="0.9939188701848847" />
-      <entry key="S10" value="0.9969547986010293" />
-      <entry key="S30" value="0.9994966124260534" />
-      <entry key="S60" value="1.0224209787400382" />
-      <entry key="M2" value="1.3357117875620166" />
-      <entry key="M5" value="10.838743883771773" />
-      <entry key="M10" value="40.06368968654868" />
-      <entry key="M15" value="68.33294699622962" />
-      <entry key="M30" value="129.02943751066715" />
-      <entry key="H1" value="186.87295168991133" />
-      <entry key="H2" value="228.3458365881345" />
-      <entry key="H4" value="253.41939896780588" />
-      <entry key="D1" value="276.97035280480475" />
-      <entry key="W1" value="281.2746404305409" />
+      <entry key="MS100" value="0.06886906974228815" />
+      <entry key="MS500" value="0.5856050906094049" />
+      <entry key="S2" value="0.8747847649058218" />
+      <entry key="S5" value="0.9478955497942779" />
+      <entry key="S10" value="0.9735992757774001" />
+      <entry key="S30" value="0.991121641865617" />
+      <entry key="S60" value="0.9974049282138773" />
+      <entry key="M2" value="1.1215877418849116" />
+      <entry key="M5" value="4.157872722690733" />
+      <entry key="M10" value="20.55742204124985" />
+      <entry key="M15" value="42.87177534095493" />
+      <entry key="M30" value="102.34497208740022" />
+      <entry key="H1" value="168.31970604544117" />
+      <entry key="H2" value="219.630205599384" />
+      <entry key="H4" value="251.9993630758098" />
+      <entry key="D1" value="283.23176208182986" />
+      <entry key="W1" value="289.02183642477013" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -106,16 +119,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CanteenBillingCalculator.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
+    "Application.DeliveryFeeCalculator.executor": "Run",
+    "Application.ExamGrader.executor": "Run",
+    "Application.FestivalBonusCalculator.executor": "Run",
     "Application.FindMinRotated.executor": "Run",
+    "Application.HostelElectricityBillCalculator.executor": "Run",
+    "Application.LibraryDueDateCalculator.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxProfit.executor": "Run",
     "Application.MaxSubArray.executor": "Run",
     "Application.MergeSortedArrays.executor": "Run",
+    "Application.ParkingChargeCalculator.executor": "Run",
+    "Application.PaymentFeeCalculator.executor": "Run",
     "Application.ProductExceptSelf.executor": "Run",
     "Application.RotateArray.executor": "Run",
+    "Application.StreamingRenewalCalculator.executor": "Run",
     "Application.SubarraySum.executor": "Run",
     "Application.ThreeSum.executor": "Run",
+    "Application.TransportFareCalculator.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -123,7 +146,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/session__6",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
