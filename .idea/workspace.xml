@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e01b9923-f199-4a76-b651-42419fd109fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/session_7/assignment_problems/CityCabFareMeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_7/assignment_problems/CollegeFeeCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_7/assignment_problems/HomeApplianceEnergyReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_7/assignment_problems/MovieTicketCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_7/assignment_problems/ParcelShippingDesk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_7/class_problems/ElectricityConnectionBilling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_7/class_problems/GardenPlotAreaReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_7/class_problems/LibraryLateFineCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_7/class_problems/TravelBookingCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/session_7/class_problems/WeeklyStaffPay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,61 +47,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.018036701363746E-87" />
-      <entry key="MS500" value="6.422460774068519E-18" />
-      <entry key="S2" value="8.427596722665619E-5" />
-      <entry key="S5" value="0.035541714398096856" />
-      <entry key="S10" value="0.266598261258817" />
-      <entry key="S30" value="1.0216446390924467" />
-      <entry key="S60" value="1.4303450799953745" />
-      <entry key="M2" value="1.7671103471427956" />
-      <entry key="M5" value="4.460050012723486" />
-      <entry key="M10" value="19.992888172289554" />
-      <entry key="M15" value="41.76721112342162" />
-      <entry key="M30" value="100.688748325537" />
-      <entry key="H1" value="166.63918139278394" />
-      <entry key="H2" value="218.15056813495892" />
-      <entry key="H4" value="250.71528094854006" />
-      <entry key="D1" value="282.1772702798299" />
-      <entry key="W1" value="288.01386231411453" />
-    </decayedCancelled>
-    <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.000000095811546" />
-      <entry key="S60" value="1.0004156472278234" />
-      <entry key="M2" value="1.0284244765204789" />
-      <entry key="M5" value="1.3635559501569485" />
-      <entry key="M10" value="1.8522069633929683" />
-      <entry key="M15" value="2.13235657977546" />
-      <entry key="M30" value="2.504797887738929" />
-      <entry key="H1" value="2.7347902645023376" />
-      <entry key="H2" value="2.8626733839389416" />
-      <entry key="H4" value="2.930113765062358" />
-      <entry key="D1" value="2.98817871191282" />
-      <entry key="W1" value="2.998306944044607" />
+      <entry key="S5" value="1.0000000000000002" />
+      <entry key="S10" value="1.0000000195208874" />
+      <entry key="S30" value="1.0060844811677796" />
+      <entry key="S60" value="1.1884271596576355" />
+      <entry key="M2" value="2.1793200589086523" />
+      <entry key="M5" value="5.739228905167424" />
+      <entry key="M10" value="18.034172387335882" />
+      <entry key="M15" value="36.845824309973004" />
+      <entry key="M30" value="93.26022044406339" />
+      <entry key="H1" value="161.4987108639549" />
+      <entry key="H2" value="217.11483637045515" />
+      <entry key="H4" value="253.06907554261232" />
+      <entry key="D1" value="288.30099687817346" />
+      <entry key="W1" value="294.8859694425867" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="9.231512802617986E-159" />
+      <entry key="S2" value="3.0996896921433492E-40" />
+      <entry key="S5" value="1.5722883821821206E-16" />
+      <entry key="S10" value="1.2584494347487391E-8" />
+      <entry key="S30" value="0.0028215836496763924" />
+      <entry key="S60" value="0.07912572781554851" />
+      <entry key="M2" value="0.4700340461517559" />
+      <entry key="M5" value="1.5617528415131166" />
+      <entry key="M10" value="2.6027930232051375" />
+      <entry key="M15" value="3.174027076585411" />
+      <entry key="M30" value="3.9426298627167227" />
+      <entry key="H1" value="4.42790358296356" />
+      <entry key="H2" value="4.702008855463364" />
+      <entry key="H4" value="4.847869612487394" />
+      <entry key="D1" value="4.974196243841894" />
+      <entry key="W1" value="4.996302582778014" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.14063231058610115" />
-      <entry key="MS500" value="0.6754870422678187" />
-      <entry key="S2" value="0.9066506889703503" />
-      <entry key="S5" value="0.995373182377118" />
-      <entry key="S10" value="1.2407275084917033" />
-      <entry key="S30" value="2.006820099688574" />
-      <entry key="S60" value="2.4216684183156603" />
-      <entry key="M2" value="2.790313303718174" />
-      <entry key="M5" value="5.82033657642504" />
-      <entry key="M10" value="21.841205113477866" />
-      <entry key="M15" value="43.89482293810323" />
-      <entry key="M30" value="103.18798311461002" />
-      <entry key="H1" value="169.36927215242392" />
-      <entry key="H2" value="221.0101162541505" />
-      <entry key="H4" value="253.64358290640897" />
-      <entry key="D1" value="285.1651065136407" />
-      <entry key="W1" value="291.0121192538882" />
+      <entry key="MS100" value="0.9201876506248751" />
+      <entry key="MS500" value="0.9835020740262483" />
+      <entry key="S2" value="0.9958497530944581" />
+      <entry key="S5" value="0.9983378297043669" />
+      <entry key="S10" value="0.9991686006474585" />
+      <entry key="S30" value="1.0085750431789187" />
+      <entry key="S60" value="1.2666061324013993" />
+      <entry key="M2" value="2.646731265934275" />
+      <entry key="M5" value="7.297282516573972" />
+      <entry key="M10" value="20.632779653749814" />
+      <entry key="M15" value="40.01504829640502" />
+      <entry key="M30" value="97.19733209324923" />
+      <entry key="H1" value="165.92186778539775" />
+      <entry key="H2" value="221.81363686830906" />
+      <entry key="H4" value="257.91506694980256" />
+      <entry key="D1" value="293.27483492439" />
+      <entry key="W1" value="299.8822196427608" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -109,17 +119,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CanteenBillingCalculator.executor": "Run",
+    "Application.CityCabFareMeter.executor": "Run",
+    "Application.CollegeFeeCounter.executor": "Run",
     "Application.ContainsDuplicate.executor": "Run",
     "Application.DeliveryFeeCalculator.executor": "Run",
+    "Application.ElectricityConnectionBilling.executor": "Run",
     "Application.ExamGrader.executor": "Run",
     "Application.FestivalBonusCalculator.executor": "Run",
     "Application.FindMinRotated.executor": "Run",
+    "Application.GardenPlotAreaReport.executor": "Run",
+    "Application.HomeApplianceEnergyReport.executor": "Run",
     "Application.HostelElectricityBillCalculator.executor": "Run",
     "Application.LibraryDueDateCalculator.executor": "Run",
+    "Application.LibraryLateFineCounter.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxProfit.executor": "Run",
     "Application.MaxSubArray.executor": "Run",
     "Application.MergeSortedArrays.executor": "Run",
+    "Application.MovieTicketCounter.executor": "Run",
+    "Application.ParcelShippingDesk.executor": "Run",
     "Application.ParkingChargeCalculator.executor": "Run",
     "Application.PaymentFeeCalculator.executor": "Run",
     "Application.ProductExceptSelf.executor": "Run",
@@ -128,7 +146,9 @@
     "Application.SubarraySum.executor": "Run",
     "Application.ThreeSum.executor": "Run",
     "Application.TransportFareCalculator.executor": "Run",
+    "Application.TravelBookingCalculator.executor": "Run",
     "Application.TwoSum.executor": "Run",
+    "Application.WeeklyStaffPay.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
