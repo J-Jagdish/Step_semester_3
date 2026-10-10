@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e01b9923-f199-4a76-b651-42419fd109fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/session_7/assignment_problems/CityCabFareMeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_7/assignment_problems/CollegeFeeCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_7/assignment_problems/HomeApplianceEnergyReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_7/assignment_problems/MovieTicketCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_7/assignment_problems/ParcelShippingDesk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_7/class_problems/ElectricityConnectionBilling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_7/class_problems/GardenPlotAreaReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_7/class_problems/LibraryLateFineCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_7/class_problems/TravelBookingCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/session_7/class_problems/WeeklyStaffPay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,61 +37,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
+      <entry key="MS100" value="2.131972795442507E-53" />
+      <entry key="MS500" value="2.92251219285819E-11" />
+      <entry key="S2" value="0.002325086330745622" />
+      <entry key="S5" value="0.08842511497371895" />
+      <entry key="S10" value="0.2973636074062727" />
+      <entry key="S30" value="0.6678610477763021" />
+      <entry key="S60" value="0.8405297723680705" />
+      <entry key="M2" value="1.210614191452558" />
+      <entry key="M5" value="3.579974239820537" />
+      <entry key="M10" value="13.163894193297393" />
+      <entry key="M15" value="29.35590432711815" />
+      <entry key="M30" value="82.8259185696661" />
+      <entry key="H1" value="152.27753885830583" />
+      <entry key="H2" value="211.13265412082004" />
+      <entry key="H4" value="249.9667622506676" />
+      <entry key="D1" value="288.51679963014" />
+      <entry key="W1" value="295.77124917214167" />
+    </decayedCancelled>
+    <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000000000002" />
-      <entry key="S10" value="1.0000000195208874" />
-      <entry key="S30" value="1.0060844811677796" />
-      <entry key="S60" value="1.1884271596576355" />
-      <entry key="M2" value="2.1793200589086523" />
-      <entry key="M5" value="5.739228905167424" />
-      <entry key="M10" value="18.034172387335882" />
-      <entry key="M15" value="36.845824309973004" />
-      <entry key="M30" value="93.26022044406339" />
-      <entry key="H1" value="161.4987108639549" />
-      <entry key="H2" value="217.11483637045515" />
-      <entry key="H4" value="253.06907554261232" />
-      <entry key="D1" value="288.30099687817346" />
-      <entry key="W1" value="294.8859694425867" />
-    </decayedCancelled>
-    <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="9.231512802617986E-159" />
-      <entry key="S2" value="3.0996896921433492E-40" />
-      <entry key="S5" value="1.5722883821821206E-16" />
-      <entry key="S10" value="1.2584494347487391E-8" />
-      <entry key="S30" value="0.0028215836496763924" />
-      <entry key="S60" value="0.07912572781554851" />
-      <entry key="M2" value="0.4700340461517559" />
-      <entry key="M5" value="1.5617528415131166" />
-      <entry key="M10" value="2.6027930232051375" />
-      <entry key="M15" value="3.174027076585411" />
-      <entry key="M30" value="3.9426298627167227" />
-      <entry key="H1" value="4.42790358296356" />
-      <entry key="H2" value="4.702008855463364" />
-      <entry key="H4" value="4.847869612487394" />
-      <entry key="D1" value="4.974196243841894" />
-      <entry key="W1" value="4.996302582778014" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.000001107384376" />
+      <entry key="S60" value="1.0015675465575857" />
+      <entry key="M2" value="1.0661577431932638" />
+      <entry key="M5" value="1.7128412957610026" />
+      <entry key="M10" value="2.7584495261898354" />
+      <entry key="M15" value="3.4438289730274563" />
+      <entry key="M30" value="4.459522010820747" />
+      <entry key="H1" value="5.147756008458609" />
+      <entry key="H2" value="5.550833699893173" />
+      <entry key="H4" value="5.769300555233163" />
+      <entry key="D1" value="5.960668531946056" />
+      <entry key="W1" value="5.994359197695182" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9201876506248751" />
-      <entry key="MS500" value="0.9835020740262483" />
-      <entry key="S2" value="0.9958497530944581" />
-      <entry key="S5" value="0.9983378297043669" />
-      <entry key="S10" value="0.9991686006474585" />
-      <entry key="S30" value="1.0085750431789187" />
-      <entry key="S60" value="1.2666061324013993" />
-      <entry key="M2" value="2.646731265934275" />
-      <entry key="M5" value="7.297282516573972" />
-      <entry key="M10" value="20.632779653749814" />
-      <entry key="M15" value="40.01504829640502" />
-      <entry key="M30" value="97.19733209324923" />
-      <entry key="H1" value="165.92186778539775" />
-      <entry key="H2" value="221.81363686830906" />
-      <entry key="H4" value="257.91506694980256" />
-      <entry key="D1" value="293.27483492439" />
-      <entry key="W1" value="299.8822196427608" />
+      <entry key="MS100" value="0.006615197752832244" />
+      <entry key="MS500" value="0.36652918931564504" />
+      <entry key="S2" value="0.7801546794761324" />
+      <entry key="S5" value="0.9889055315440647" />
+      <entry key="S10" value="1.2415726605770219" />
+      <entry key="S30" value="1.6461115642145636" />
+      <entry key="S60" value="1.830584381688137" />
+      <entry key="M2" value="2.270476965823389" />
+      <entry key="M5" value="5.288710397169901" />
+      <entry key="M10" value="15.918299448852729" />
+      <entry key="M15" value="32.79522245967748" />
+      <entry key="M30" value="87.28019126738945" />
+      <entry key="H1" value="157.42064465625322" />
+      <entry key="H2" value="216.68028062632575" />
+      <entry key="H4" value="255.73416403155497" />
+      <entry key="D1" value="294.47710243511676" />
+      <entry key="W1" value="301.76555479277465" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -116,64 +106,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CanteenBillingCalculator.executor": "Run",
-    "Application.CityCabFareMeter.executor": "Run",
-    "Application.CollegeFeeCounter.executor": "Run",
-    "Application.ContainsDuplicate.executor": "Run",
-    "Application.DeliveryFeeCalculator.executor": "Run",
-    "Application.ElectricityConnectionBilling.executor": "Run",
-    "Application.ExamGrader.executor": "Run",
-    "Application.FestivalBonusCalculator.executor": "Run",
-    "Application.FindMinRotated.executor": "Run",
-    "Application.GardenPlotAreaReport.executor": "Run",
-    "Application.HomeApplianceEnergyReport.executor": "Run",
-    "Application.HostelElectricityBillCalculator.executor": "Run",
-    "Application.LibraryDueDateCalculator.executor": "Run",
-    "Application.LibraryLateFineCounter.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxProfit.executor": "Run",
-    "Application.MaxSubArray.executor": "Run",
-    "Application.MergeSortedArrays.executor": "Run",
-    "Application.MovieTicketCounter.executor": "Run",
-    "Application.ParcelShippingDesk.executor": "Run",
-    "Application.ParkingChargeCalculator.executor": "Run",
-    "Application.PaymentFeeCalculator.executor": "Run",
-    "Application.ProductExceptSelf.executor": "Run",
-    "Application.RotateArray.executor": "Run",
-    "Application.StreamingRenewalCalculator.executor": "Run",
-    "Application.SubarraySum.executor": "Run",
-    "Application.ThreeSum.executor": "Run",
-    "Application.TransportFareCalculator.executor": "Run",
-    "Application.TravelBookingCalculator.executor": "Run",
-    "Application.TwoSum.executor": "Run",
-    "Application.WeeklyStaffPay.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature/session__7",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/JAI JAGDISH E/Step_semester_3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/JAI JAGDISH E/Step_semester_3/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CanteenBillingCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CityCabFareMeter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollegeFeeCounter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeliveryFeeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ElectricityConnectionBilling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExamGrader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FestivalBonusCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMinRotated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GardenPlotAreaReport.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeApplianceEnergyReport.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HostelElectricityBillCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibraryDueDateCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibraryLateFineCounter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxProfit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxSubArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortedArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieTicketCounter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParcelShippingDesk.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParkingChargeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PaymentFeeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductExceptSelf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamingRenewalCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubarraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransportFareCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TravelBookingCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeeklyStaffPay.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/session__7&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JAI JAGDISH E/Step_semester_3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/JAI JAGDISH E/Step_semester_3/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
